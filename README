@@ -6,21 +6,21 @@ This project showcases a real-world system used in live church services to displ
 
 ---
 
-## 🚀 Key Features
+##  Key Features
 
-* 🎬 Real-time graphics playout (Take, Next, Clear controls)
-* 🧩 Template-driven rendering system (HTML/CSS + JSON)
-* 🎨 Visual template designer for non-technical users
-* 📖 Scripture system with multi-language Bible support
-* 🎵 Song and lyrics display system
-* 🖼️ Image and video asset support
-* ⚡ Dynamic data binding using placeholders (e.g. `{{title}}`)
-* 🎞️ CSS animation lifecycle (entry, exit, transitions)
-* 🔄 Event-driven messaging system for slide control
+*  Real-time graphics playout (Take, Next, Clear controls)
+*  Template-driven rendering system (HTML/CSS + JSON)
+*  Visual template designer for non-technical users
+*  Scripture system with multi-language Bible support
+*  Song and lyrics display system
+*  Image and video asset support
+*  Dynamic data binding using placeholders (e.g. `{{title}}`)
+*  CSS animation lifecycle (entry, exit, transitions)
+*  Event-driven messaging system for slide control
 
 ---
 
-## 🧠 My Contributions
+##  My Contributions
 
 * Built and worked on the **template rendering system**
 * Implemented **real-time data binding and DOM updates**
@@ -30,7 +30,7 @@ This project showcases a real-world system used in live church services to displ
 
 ---
 
-## 🖥️ Screenshots
+##  Screenshots
 
 ![Producer UI](./gfxHOW%20Producer.png)
 ![Designer UI](./gfxHOW%20Designer.png)
@@ -39,13 +39,13 @@ This project showcases a real-world system used in live church services to displ
 
 ---
 
-## ⚠️ Note
+##  Note
 
 This repository is a **showcase/demo only** and does not include the full production source code.
 
 ---
 
-## 📌 Tech Stack
+##  Tech Stack
 
 * HTML, CSS, JavaScript
 * JSON-based template configuration
