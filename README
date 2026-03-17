@@ -32,9 +32,14 @@ This project showcases a real-world system used in live church services to displ
 
 ##  Screenshots
 
-![Producer UI](./gfxHOW%20Producer.png)
-![Designer UI](./gfxHOW%20Designer.png)
-![Converter UI](./gfxHOW%20Converter.png)
+### Producer Interface (Live Control)
+![Producer UI](./gfxHOWProducer.png)
+
+### Template Designer
+![Designer UI](./gfxHOWDesigner.png)
+
+### Template Converter
+![Converter UI](./gfxHOWConverter.png)
 
 
 ---
